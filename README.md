@@ -124,11 +124,11 @@ github account 以及填坑的日期。（见下方 [填坑是好青年](#填坑
 
 ### CH11
 
-贡献者：<your-github-account>
+贡献者：nchen
 
-联系方式：
+联系方式：chenrong2003@gmail.com
 
-填坑日：<yyyy.mm.dd>
+填坑日：2012.06.07
 
 ### CH12
 
@@ -172,11 +172,11 @@ github account 以及填坑的日期。（见下方 [填坑是好青年](#填坑
 
 ### CH17
 
-贡献者：<your-github-account>
+贡献者：nchen
 
-联系方式：
+联系方式：chenrong2003@gmail.com
 
-填坑日：<yyyy.mm.dd>
+填坑日：2012.06.07
 
 ### Appendix A.
 
