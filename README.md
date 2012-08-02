@@ -94,11 +94,11 @@ github account 以及填坑的日期。（见下方 [填坑是好青年](#填坑
 
 ### CH12
 
-贡献者：<your-github-account>
+贡献者：lazypussy
 
-联系方式：
+联系方式：xiaolangde@gmail.com
 
-填坑日：<yyyy.mm.dd>
+填坑日：<2012.08.01>
 
 ### CH13
 
