@@ -24,7 +24,7 @@ Lisp 程序开发通常呼应着开发 Lisp 语言自身。在最初版本的 Li
    > (setf x (cons 'a nil))
    (A)
 
-.. figure:: https://github.com/JuanitoFatas/acl-chinese/raw/master/images/Figure-3.9.png
+.. figure:: https://github.com/JuanitoFatas/acl-chinese/raw/master/images/Figure-3.1.png
 
 图 3.1 一个元素的列表
 
