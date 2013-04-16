@@ -53,7 +53,7 @@ Lisp 被设计成可扩展的：让你定义自己的操作符。这是可能的
 
 几乎所有的程序，都可以从订作适合自己所需的语言中受益。然而越复杂的程序，由下而上的程序设计就显得越有价值。一个由下而上所设计出来的程序，可写成一系列的层，每层担任上一层的程序语言。 `TeX <http://en.wikipedia.org/wiki/TeX>`_ 是最早使用这种方法所写的程序之一。你可以用任何语言由下而上地设计程序，但 Lisp 是本质上最适合这种方法的工具。
 
-由下而上的编程方法，自然发展出可扩展的软件。如果你把由下而上的程序设计的原则，想成你程序的最上层，那这层就成为使用者的程序语言。正因可扩展的思想深植于 Lisp 当中，使得 Lisp 成为实现可扩展軟件的理想语言。三个 1980 年代最成功的程序提供 Lisp 作为扩展自身的语言: `GNU Emacs <http://www.gnu.org/software/emacs/>`_  ， `Autocad <http://www.autodesk.com.tw/adsk/servlet/pc/index?siteID=1170616&id=14977606>`_ ，和 `Interleaf <http://en.wikipedia.org/wiki/Interleaf>`_ 。
+由下而上的编程方法，自然发展出可扩展的软件。如果你把由下而上的程序设计的原则，想成你程序的最上层，那这层就成为使用者的程序语言。正因可扩展的思想深植于 Lisp 当中，使得 Lisp 成为实现可扩展软件的理想语言。三个 1980 年代最成功的程序提供 Lisp 作为扩展自身的语言: `GNU Emacs <http://www.gnu.org/software/emacs/>`_  ， `Autocad <http://www.autodesk.com.tw/adsk/servlet/pc/index?siteID=1170616&id=14977606>`_ ，和 `Interleaf <http://en.wikipedia.org/wiki/Interleaf>`_ 。
 
 由下而上的编程方法，也是得到可重用软件的最好方法。写可重用软件的本质是把共同的地方从细节中区分出来，而由下而上的编程方法本质地创造这种区分。与其努力撰写一个庞大的应用，不如努力创造一个语言，用相对小的努力在这语言上撰写你的应用。和应用相关的特性集中在最上层，以下的层可以组成一个适合这种应用的语言 –– 还有什么比程序语言更具可重用性的呢？
 
