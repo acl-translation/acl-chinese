@@ -167,7 +167,7 @@ Common Lisp 的数组至少可以有七个维度，每个维度至少可以有 1
 
 ::
 
-  > (equal "fred "fred")
+  > (equal "fred" "fred")
   T
   > (equal "fred" "Fred")
   NIL
