@@ -1,4 +1,4 @@
-# ANSI Common Lisp [![Issues in Ready](http://badge.waffle.io/acl-translation/acl-chinese.png)](http://waffle.io/acl-translation/acl-chinese)
+# ANSI Common Lisp [![Stories in Ready](https://badge.waffle.io/acl-translation/acl-chinese.png)](http://waffle.io/acl-translation/acl-chinese)
 
 《ANSI Common Lisp》── 由 Paul Graham 編著的、一本非常棒的 Common Lisp 入門書籍，對於學習 Lisp、或者在《實用 Common Lisp 編程》或《On Lisp》之前閱讀，也非常有價值。
 
