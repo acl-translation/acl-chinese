@@ -17,7 +17,7 @@ Common Lisp 还有另一种数据结构：实例（instance）。实例将在 11
   > (setf arr (make-array '(2 3) :initial-element nil))
   #<Simple-Array T (2 3) BFC4FE>
 
-Common Lisp 的数组至少可以有七个维度，每个维度至少可以有 1023 个元素。
+Common Lisp 的数组至多可以有七个维度，每个维度至多可以有 1023 个元素。
 
 ``:initial-element`` 实参是选择性的。如果有提供这个实参，整个数组会用这个值作为初始值。若试著取出未初始化的数组内的元素，其结果为未定义（undefined）。
 
