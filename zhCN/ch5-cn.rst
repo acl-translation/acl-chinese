@@ -169,7 +169,7 @@ Common Lisp 有三个构造区块（block）的基本操作符： ``progn`` 、 
       (list x y))
   (NIL NIL)
 
-``destructuring-bind`` 宏是通用化的 ``let`` 。与其接受单一变量，一个模式 (pattern) ── 一个或多个变量所构成的树 ── 并将它们与某个实际的树所对应的部份做绑定。举例来说：
+``destructuring-bind`` 宏是通用化的 ``let`` 。其接受单一变量，一个模式 (pattern) ── 一个或多个变量所构成的树 ── 并将它们与某个实际的树所对应的部份做绑定。举例来说：
 
 ::
 
