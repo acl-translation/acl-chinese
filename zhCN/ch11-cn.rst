@@ -516,7 +516,7 @@ Common Lisp 对象系统，或称 CLOS，是一组用来实现面向对象编程
 
 如果有可用的 ``:around`` 方法的话，它们根据优先级决定，就像是标准方法组合那样。在操作符方法组合里，一个 ``around`` 方法仍可以通过 ``call-next-method`` 调用下个方法。然而主方法就不可以使用 ``call-next-method`` 了。
 
-我们可以指定一个通用函数的方法组合所要使用的类型，藉由在 ``defgeneric`` 调用里加入一个 ``method-combination`` 子句：
+我们可以指定一个通用函数的方法组合所要使用的类型，借由在 ``defgeneric`` 调用里加入一个 ``method-combination`` 子句：
 
 
 ::
