@@ -500,7 +500,7 @@ Dylan 是 Common Lisp 与 Scheme 的混合物，有着 Pascal 一般的语法。
 
   > (mapcar (conjoin #'integerp #'symbolp)
             '(a "a" 2 3))
-  (NIL NIL NIL T)
+  (NIL NIL NIL NIL)
 
 若考虑将谓词定义成集合， ``disjoin`` 返回传入参数的联集（union），而 ``conjoin`` 则是返回传入参数的交集（intersection）。
 
