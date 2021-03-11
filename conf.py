@@ -243,3 +243,6 @@ texinfo_documents = [
 
 # code highlight setting
 highlight_language = 'cl'
+
+# How to display URL addresses: 'footnote', 'no', or 'inline'.
+epub_show_urls = 'no'
